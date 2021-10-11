@@ -1,0 +1,15 @@
+package com.cheeku.Chirag;
+
+
+
+
+public class App 
+{
+    public static void main( String[] args )
+    {
+    	
+    	
+       Vehicle obj= getBean("vehicle");
+       obj.drive();
+    }
+}

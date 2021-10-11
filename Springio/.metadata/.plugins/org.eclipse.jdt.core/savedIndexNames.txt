@@ -1,0 +1,14 @@
+INDEX VERSION 1.131+G:\JAVA\Servlets\Springio\.metadata\.plugins\org.eclipse.jdt.core
+925633786.index
+3070045724.index
+1933906874.index
+1289320443.index
+3672036311.index
+1230310904.index
+2480312378.index
+4161421609.index
+1807685223.index
+3892097625.index
+3904582199.index
+1885002456.index
+2873716396.index

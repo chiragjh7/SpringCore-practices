@@ -1,0 +1,15 @@
+1. What is Dependencies Injection?
+=> Introduction to Maven? Maven is a build tool which gives required libraries.
+2.How to inject Spring dependencies in pom.xml
+3.Why we require Spring framework?
+=> Spring provide multiple features, we can use spring for web, for dependency injection.
+
+4.ApplcationContext/BeanFactory
+=> for small application you can use beanFactory but for large Enterprise level application go for ApplicationContext
+
+5.How to inject an object from outside using spring framework.
+
+6. Annotation with configuration.
+7. Bean Property- For Getters and Setter Injection.
+8.Constructor Injection.
+9. Autowired Annotation.

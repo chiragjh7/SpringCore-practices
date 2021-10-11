@@ -1,0 +1,7 @@
+package com.cheeku.SpringAnnotation;
+
+public class MediaTek implements MobileProcessor{
+	public void process() {
+		System.out.println("2nd Best CPU");
+	}
+}
